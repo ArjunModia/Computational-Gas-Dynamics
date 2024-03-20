@@ -24,7 +24,7 @@ speeds = ['SHL', 'STL', 'SHR', 'SHR']
 
 # Define left and right state variables
 rho_left, u_left, p_left = [8., 0., 480]          # Left State
-rho_right, u_right, p_right = [1., 0., 1]        # Right State
+rho_right, u_right, p_right = [1., 0., 2]        # Right State
 
 # Define gamma and combinations used as constants
 gamma = 5.0/3
